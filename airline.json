@@ -76,7 +76,7 @@
                     "name": "AKA Sakura",                                                          // Name of the livery
                     "texture": [
                         "htttps://geo-fs.com/models/aircraft/premium/a380/specular.jpg",        // This is the link to the Specular shader
-                        "https://geo-fs.com/models/aircraft/premium/a380/texture_3.jpg"         // This is the link to the Texture
+                        "https://github.com/r3xicodes/Airline-storage/blob/main/aka_a380.jpg"         // This is the link to the Texture
                     ],
                     "credits": "GeoFS"                                                          // The creator of the livery mostly a discord or github nickname
                 }
